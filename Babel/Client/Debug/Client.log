@@ -1,0 +1,4 @@
+﻿  BabelAddContact.cpp
+  LINK : C:\Users\S@suke\Desktop\Babel\\Client.exe not found or not built by the last incremental link; performing full link
+qtmaind.lib(qtmain_win.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'qtmaind.lib(qtmain_win.obj)' or at 'C:\Users\S@suke\Desktop\Babel\vc100.pdb'; linking object as if no debug info
+  Client.vcxproj -> C:\Users\S@suke\Desktop\Babel\Client.exe
