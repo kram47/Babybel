@@ -1,4 +1,4 @@
 Babybel
 =======
 
-Babybel quoi !
+Logiciel de communication écrit en C++ et Qt
